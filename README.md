@@ -1,3 +1,17 @@
+# EEG-Conformer-Reproduction
+
+This repository is a reproduction study of:
+
+**EEG Conformer: Convolutional Transformer for EEG Decoding**
+
+#### Original paper:
+https://ieeexplore.ieee.org/document/9991178
+
+#### Original repository:
+https://github.com/eeyhsong/EEG-Conformer
+
+
+---
 # EEG-Conformer
 
 ### EEG Conformer: Convolutional Transformer for EEG Decoding and Visualization [[Paper](https://ieeexplore.ieee.org/document/9991178)]
