@@ -1,6 +1,6 @@
 # EEG-Conformer-Reproduction
 
-This repository is a reproduction study of:
+This repository is a reproduction study of
 
 **EEG Conformer: Convolutional Transformer for EEG Decoding**
 
